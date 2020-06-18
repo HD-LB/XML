@@ -1,0 +1,6 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\bin\Debug\_05.ExtractingAllSongsWithXmlReader.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\bin\Debug\_05.ExtractingAllSongsWithXmlReader.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\bin\Debug\_05.ExtractingAllSongsWithXmlReader.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\obj\Debug\05. ExtractingAllSongsWithXmlReader.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\obj\Debug\_05.ExtractingAllSongsWithXmlReader.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\05. ExtractingAllSongsWithXmlReader\obj\Debug\_05.ExtractingAllSongsWithXmlReader.pdb

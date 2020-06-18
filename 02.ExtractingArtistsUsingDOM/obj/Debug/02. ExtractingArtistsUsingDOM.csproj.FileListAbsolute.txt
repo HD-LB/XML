@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\bin\Debug\_02.ExtractingArtistsUsingDOM.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\bin\Debug\_02.ExtractingArtistsUsingDOM.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\bin\Debug\_02.ExtractingArtistsUsingDOM.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\obj\Debug\02. ExtractingArtistsUsingDOM.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\obj\Debug\02. ExtractingArtistsUsingDOM.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\obj\Debug\_02.ExtractingArtistsUsingDOM.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\02. ExtractingArtistsUsingDOM\obj\Debug\_02.ExtractingArtistsUsingDOM.pdb

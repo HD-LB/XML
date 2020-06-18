@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\obj\Debug\06. ExtractingAllSongsUsingXDocument.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\obj\Debug\06. ExtractingAllSongsUsingXDocument.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\bin\Debug\_06.ExtractingAllSongsUsingXDocument.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\bin\Debug\_06.ExtractingAllSongsUsingXDocument.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\bin\Debug\_06.ExtractingAllSongsUsingXDocument.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\obj\Debug\_06.ExtractingAllSongsUsingXDocument.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\06. ExtractingAllSongsUsingXDocument\obj\Debug\_06.ExtractingAllSongsUsingXDocument.pdb

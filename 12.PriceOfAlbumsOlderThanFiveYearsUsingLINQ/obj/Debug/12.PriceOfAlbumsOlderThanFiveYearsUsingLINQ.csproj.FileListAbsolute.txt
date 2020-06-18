@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\bin\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\bin\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\bin\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\obj\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\obj\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\obj\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ\obj\Debug\12.PriceOfAlbumsOlderThanFiveYearsUsingLINQ.pdb

@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\bin\Debug\14.XslTransform.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\bin\Debug\14.XslTransform.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\bin\Debug\14.XslTransform.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\obj\Debug\14.XslTransform.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\obj\Debug\14.XslTransform.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\obj\Debug\14.XslTransform.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\14.XslTransform\obj\Debug\14.XslTransform.pdb

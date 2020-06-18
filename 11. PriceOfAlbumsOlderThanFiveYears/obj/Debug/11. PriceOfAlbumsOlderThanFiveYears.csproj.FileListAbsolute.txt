@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\bin\Debug\_11.PriceOfAlbumsOlderThanFiveYears.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\bin\Debug\_11.PriceOfAlbumsOlderThanFiveYears.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\bin\Debug\_11.PriceOfAlbumsOlderThanFiveYears.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\obj\Debug\11. PriceOfAlbumsOlderThanFiveYears.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\obj\Debug\11. PriceOfAlbumsOlderThanFiveYears.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\obj\Debug\_11.PriceOfAlbumsOlderThanFiveYears.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\11. PriceOfAlbumsOlderThanFiveYears\obj\Debug\_11.PriceOfAlbumsOlderThanFiveYears.pdb

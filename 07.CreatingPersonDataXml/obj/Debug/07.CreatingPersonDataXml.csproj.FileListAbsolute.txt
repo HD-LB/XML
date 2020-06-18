@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\bin\Debug\07.CreatingPersonDataXml.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\bin\Debug\07.CreatingPersonDataXml.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\bin\Debug\07.CreatingPersonDataXml.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\obj\Debug\07.CreatingPersonDataXml.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\obj\Debug\07.CreatingPersonDataXml.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\obj\Debug\07.CreatingPersonDataXml.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\07.CreatingPersonDataXml\obj\Debug\07.CreatingPersonDataXml.pdb

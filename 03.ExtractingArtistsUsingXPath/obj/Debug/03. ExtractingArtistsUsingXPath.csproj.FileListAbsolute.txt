@@ -1,0 +1,11 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_03.ExtractingArtistsUsingXPath.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_03.ExtractingArtistsUsingXPath.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_03.ExtractingArtistsUsingXPath.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\obj\Debug\03. ExtractingArtistsUsingXPath.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\obj\Debug\_03.ExtractingArtistsUsingXPath.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\obj\Debug\_03.ExtractingArtistsUsingXPath.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_02.ExtractingArtistsUsingDOM.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_02.ExtractingArtistsUsingDOM.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\bin\Debug\_02.ExtractingArtistsUsingDOM.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\obj\Debug\03. ExtractingArtistsUsingXPath.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\03. ExtractingArtistsUsingXPath\obj\Debug\03. ExtractingArtistsUsingXPath.csproj.CopyComplete

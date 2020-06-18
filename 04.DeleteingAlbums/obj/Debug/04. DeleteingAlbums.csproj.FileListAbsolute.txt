@@ -1,0 +1,11 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_04.DeleteingAlbums.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_04.DeleteingAlbums.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_04.DeleteingAlbums.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\obj\Debug\04. DeleteingAlbums.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\obj\Debug\_04.DeleteingAlbums.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\obj\Debug\_04.DeleteingAlbums.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_02.ExtractingArtistsUsingDOM.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_02.ExtractingArtistsUsingDOM.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\bin\Debug\_02.ExtractingArtistsUsingDOM.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\obj\Debug\04. DeleteingAlbums.csproj.CopyComplete
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\02.XML\04. DeleteingAlbums\obj\Debug\04. DeleteingAlbums.csprojAssemblyReference.cache

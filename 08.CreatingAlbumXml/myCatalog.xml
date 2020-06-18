@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<myCatalog name="My catalog">
+	<album>
+		<name>Queen</name>
+		<artist>Queen</artist>
+		<album>
+			<name>Flash Gordon</name>
+			<artist>Qween</artist>
+			<album>
+				<name>The Wall</name>
+				<artist> Pink Floyd</artist>
+			</album>
+		</album>
+	</album>
+</myCatalog>

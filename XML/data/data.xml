@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books last-update="01-Jan-01 00:00:00">
+  <book id="1">
+    <titel>The name of the wind</titel>
+    <author>Sample 1</author>
+  </book>
+  <book id="2">
+    <titel>Harry Potter 1</titel>
+    <author>Sample 2</author>
+  </book>
+  <book id="3">
+    <titel>Harry Potter 2</titel>
+    <author>Sample 3</author>
+  </book>
+</books>

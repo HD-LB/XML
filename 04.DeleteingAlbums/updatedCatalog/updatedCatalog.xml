@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Flash Gordon</name>
+    <artist>Queen</artist>
+    <year>1981</year>
+    <poducer>EMI</poducer>
+    <price>19.99</price>
+    <songs>
+      <song>
+        <title>Ming's Theme (In the Court of Ming the Merciless)</title>
+        <duration>2.40</duration>
+      </song>
+      <song>
+        <title>The Kiss (Aura Resurrects Flash)</title>
+        <duration>1.44</duration>
+      </song>
+      <song>
+        <title>Arboria (Planet of the Tree Men)</title>
+        <duration>1.41</duration>
+      </song>
+      <song>
+        <title>Battle Theme</title>
+        <duration>2.18</duration>
+      </song>
+      <song>
+        <title>The Hero</title>
+        <duration>3.31</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

@@ -1,0 +1,7 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\bin\Debug\16.GenerateXsdSchemaAndValidateXml.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\bin\Debug\16.GenerateXsdSchemaAndValidateXml.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\bin\Debug\16.GenerateXsdSchemaAndValidateXml.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\obj\Debug\16.GenerateXsdSchemaAndValidateXml.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\obj\Debug\16.GenerateXsdSchemaAndValidateXml.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\obj\Debug\16.GenerateXsdSchemaAndValidateXml.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\07.XML\16.GenerateXsdSchemaAndValidateXml\obj\Debug\16.GenerateXsdSchemaAndValidateXml.pdb
